@@ -17,7 +17,7 @@ Click **>>** [here]() **<<** to see these files.
 4. Weather Analysis for 2017:
    - Query to analyze weather comnditions in 2017, including the prevelance of cold, mild or hot weather and average, highest and lowest wind speed and humidity by month.
 5. Average Demand Rates by Weather Category:
-   - Quer to find the average demand rate for each weather category(cold, mild, hot) in 2017.
+   - Query to find the average demand rate for each weather category(cold, mild, hot) in 2017.
 6. Weather Analysis for the Highest Demand Month in 2017:
    - Query to analyze weather conditions for the month with the highest average demand rate in 2017.
 
