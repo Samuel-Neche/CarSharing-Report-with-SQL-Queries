@@ -31,10 +31,10 @@ Click **>>** [here]() **<<** to see these files.
 # Data Source
 The original dataset was obtained from a car-sharing company and includes hourly data on customer demand rates, weather conditions, and temperature. Due to privacy considerations, the dataset has been anonymized and sanitized.
 ### You can view the data here:
-[carsharing_df](https://drive.google.com/file/d/1N0a2XxdrOSwa5B1ecqBapFnIKl5EEw8J/view?usp=drive_link)
-[temperature](https://drive.google.com/file/d/1ptrgXK9YwpJOpGs49CRj7fv1DXbhmPF_/view?usp=drive_link)
-[time](https://drive.google.com/file/d/1xlt6mZejAbvA3w6kEQHH0ZfmK6d6YKf5/view?usp=drive_link)
-[weather](https://drive.google.com/file/d/19y_ECz_vIeygl6ztTOdeIO245DHY_a4F/view?usp=drive_link)
+- [carsharing_df](https://drive.google.com/file/d/1N0a2XxdrOSwa5B1ecqBapFnIKl5EEw8J/view?usp=drive_link).
+- [temperature](https://drive.google.com/file/d/1ptrgXK9YwpJOpGs49CRj7fv1DXbhmPF_/view?usp=drive_link).
+- [time](https://drive.google.com/file/d/1xlt6mZejAbvA3w6kEQHH0ZfmK6d6YKf5/view?usp=drive_link).
+- [weather](https://drive.google.com/file/d/19y_ECz_vIeygl6ztTOdeIO245DHY_a4F/view?usp=drive_link).
 
 # Author
 [Samuel David](https://www.linkedin.com/in/samuelneche/) under the supervision of Datafied Technologies.
